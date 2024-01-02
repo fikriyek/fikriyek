@@ -9,7 +9,7 @@
 <b>🌱 I'm currently learning</b> 😂<br/><br/>
 <b>🥅 Goals for 2024: Developing a lot of Frontend and Backend applications🌎 <br/><br/>
 <b>🥅 Goals for 2024: Specializing in C, C++🌎 <br/><br/>
-<b>⚡ Fun fact: I love reading, pilates <br/><br/>
+<b>⚡ Fun fact: I love reading, pilates🌱<br/><br/>
 
 
 
