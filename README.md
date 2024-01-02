@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/fikriyek/fikriyek/assets/140847020/d41f8ec5-dfe1-4b50-a8f1-7c8e1b5c5859)### Hi there 👋
 
 
 <p>
@@ -9,7 +9,7 @@
 <b>🌱 I'm currently learning</b> 😂<br/><br/>
 <b>🥅 Goals for 2024: Developing a lot of Frontend and Backend applications🌎 <br/><br/>
 <b>🥅 Goals for 2024: Specializing in C, C++🌎 <br/><br/>
-<b>⚡ Fun fact: I love reading  🔎📚, 🛍, pilates🌱<br/><br/>
+<b>⚡ Fun fact: I love reading 📚, pilates💪🤸‍♀️ <br/><br/>
 
 
 
