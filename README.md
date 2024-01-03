@@ -1,4 +1,4 @@
-![image](https://github.com/fikriyek/fikriyek/assets/140847020/d41f8ec5-dfe1-4b50-a8f1-7c8e1b5c5859)### Hi there 👋
+## Hi there 👋
 
 
 <p>
